@@ -6,3 +6,11 @@
 //
 
 import Foundation
+
+class ClassExample: NSObject {
+    
+    open func testingPod()
+    {
+        print("using pod...")
+    }
+}
